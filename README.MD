@@ -10,3 +10,4 @@
 - springBoot-gradle
 - springBoot-maven
 - spring-maven
+- test
